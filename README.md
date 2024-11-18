@@ -30,3 +30,5 @@
 
     Criar Superusuário
         $ docker exec -it f1club2024-web python manage.py createsuperuser
+
+LINK DO DEPLOY DO BACK: https://projeto-3-parte-2-verstappen-fork.onrender.com
